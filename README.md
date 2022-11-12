@@ -1,5 +1,5 @@
 ![logo](https://github.com/MBashir502/MBashir502/blob/main/halftone-background-with-circles_23-2148907689.webp)
-<h1 align="center">Hi 👋, I'm MBashir</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Bashir</h1>
 <h3 align="center">Hello there. This is Bashir, a web developer and cyber security professional. We are a team of professional Designers and Developers. We have build mobile and web applications by using latest technologies like React, Nodejs and Express. We are working with clients all over the globe and have built a strong professional relation with them. If you have any queries, feel free to ask. Let's do it.</h3>
 <img align="right"alt="coding"width="400"src="https://kiyalearning.sg/coding/b9e4960c1476c78043d499d975f86cdb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashir502&label=Profile%20views&color=0e75b6&style=flat" alt="mbashir502" /> </p>
