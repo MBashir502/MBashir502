@@ -2,12 +2,10 @@
 <h4 align="left">Hey There! Welcome to my GitHub 👋</h4>
 <h4 align="left">Happy to see you here!</h4>
 <p align="left">I'm Muhammad Bashir, a Tech Evangelist 💻 with a passion for cutting-edge technologies. I derive immense satisfaction from simplifying complex problems into elegant user interface designs. I deeply value the logic and structure of coding, consistently striving to write elegant and efficient code in languages like JavaScript, TypeScript, and other emerging technologies. Beyond building SaaS products, I excel in analyzing their business goals. Let's do it.</p>
-<img align="right"alt="coding"width="400"src="https://kiyalearning.sg/coding/b9e4960c1476c78043d499d975f86cdb.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashir502&label=Profile%20views&color=0e75b6&style=flat" alt="mbashir502" /> </p>
+<h1>Tools & Technologies:</h1>
+<img align="right"alt="coding" height="400"width="400"src="https://kiyalearning.sg/coding/b9e4960c1476c78043d499d975f86cdb.gif">
 
-<p align="left"> <a href="https://twitter.com/mbashir502" target="blank"><img src="https://img.shields.io/twitter/follow/mbashir502?logo=twitter&style=for-the-badge" alt="mbashir502" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Developer|Cyber Security**
 
 - 👨‍💻 All of my projects are available at [mbtwing.netlify.app](mbtwing.netlify.app)
 
