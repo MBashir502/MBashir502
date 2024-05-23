@@ -1,7 +1,7 @@
-![logo](https://github.com/MBashir502/MBashir502/blob/main/halftone-background-with-circles_23-2148907689.webp)
-<h1 align="center">Hi 👋, I'm Muhammad Bashir</h1>
-<h3 align="center">Hello there. This is Bashir, a web developer and cyber security professional. We are a team of professional Designers and Developers. We have build mobile and web applications by using latest technologies like React, Nodejs and Express. We are working with clients all over the globe and have built a strong professional relation with them. If you have any queries,To work in an organization as an integral part of it and accomplish the job assigned in a better way. I’m looking for a challenging and dynamic work environment in which i can enhance my professional skills and would be able to get valuable work experience.
-As a Backend Node.js Developer, I build high-performance, scalable, and reliable server-side applications using cutting-edge technologies. With a strong foundation in computer science and hands-on experience in Node.js, MongoDB and Express.js I design and maintain RESTful APIs and web applications feel free to ask. Let's do it.</h3>
+
+<h4 align="left">Hey There! Welcome to my GitHub 👋</h4>
+<h4 align="left">Happy to see you here!</h4>
+<p align="left">I'm Muhammad Bashir, a Tech Evangelist 💻 with a passion for cutting-edge technologies. I derive immense satisfaction from simplifying complex problems into elegant user interface designs. I deeply value the logic and structure of coding, consistently striving to write elegant and efficient code in languages like JavaScript, TypeScript, and other emerging technologies. Beyond building SaaS products, I excel in analyzing their business goals. Let's do it.</p>
 <img align="right"alt="coding"width="400"src="https://kiyalearning.sg/coding/b9e4960c1476c78043d499d975f86cdb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashir502&label=Profile%20views&color=0e75b6&style=flat" alt="mbashir502" /> </p>
 
